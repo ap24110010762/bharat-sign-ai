@@ -1,0 +1,6 @@
+streamlit
+easyocr
+aksharamukha
+opencv-python-headless
+matplotlib
+numpy
